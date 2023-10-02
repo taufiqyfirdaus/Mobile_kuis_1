@@ -27,10 +27,10 @@ void main() {
 
   print('');
 
-  // Tugas 4
+  // Tugas 4a
   print('Tugas 4a');
   final array1 = [1, 2, 3];
-  const array2 = [4, 5, 6];
+  final array2 = [4, 5, 6];
 
   array1[0] = 100;
   array2[0] = 100;
@@ -39,7 +39,7 @@ void main() {
   print(array2);
 
   print('');
-  // Tugas 4
+  // Tugas 4b
 
   print('Tugas 4b');
   int number1 = 100;
@@ -89,7 +89,7 @@ void main() {
 
   // Tugas 9
   print('Tugas 9');
-  var nama1 = firstName + lastName;
+  var nama1 = firstName + " " + lastName;
   var nama2 = 'Taufiqy' 'Firdaus' 'Jatu';
   print(nama1);
   print(nama2);
